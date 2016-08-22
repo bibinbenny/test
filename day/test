@@ -1,0 +1,13 @@
+this 
+is
+a
+<<<<<<< HEAD
+block
+=======
+line
+>>>>>>> 38fb1326de9897d11cbb297820ec0f7e9d9f1b76
+of 
+code
+for
+testing
+
